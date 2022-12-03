@@ -2,7 +2,6 @@
 My solutions to [Google AOC 2022](https://adventofcode.com/) in Python.
 
 # Links
-## Problems
 | Problem | :link: |
 | - | - |
 | Day 1: Calorie Counting | [Python 3](https://github.com/dsja612/AdventOfCode2022/blob/main/Day%201/Day1.py) |
