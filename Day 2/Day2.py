@@ -1,9 +1,4 @@
-import os
-
-path = "C:\\Users\\dsja6\\OneDrive - National University of Singapore\\Projects\\AdventOfCode2022\\Day 2"
-os.chdir(path)
-
-input = open("input.txt", "r")
+input = open("Day 2/input.txt", "r")
 score1 = 0
 score2 = 0
 

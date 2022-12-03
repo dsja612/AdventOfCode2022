@@ -1,10 +1,6 @@
-import os
 from queue import PriorityQueue
 
-path = "C:\\Users\\dsja6\\OneDrive - National University of Singapore\\Projects\\AdventOfCode2022\\Day 1"
-os.chdir(path)
-
-input = open("input.txt", "r")
+input = open("Day 1/input.txt", "r")
 
 pq = PriorityQueue()
 cur = 0
