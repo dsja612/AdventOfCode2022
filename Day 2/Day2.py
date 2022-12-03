@@ -15,5 +15,5 @@ for line in input:
     score1 += map1[line[0]][line[2]]
     score2 += map2[line[0]][line[2]]
 
-print(score1)
-print(score2)
+print("Part one: {}".format(score1))
+print("Part two: {}".format(score2))

@@ -14,10 +14,10 @@ for line in input:
         cur = 0
 
 # Part 1
-print(pq.queue[0] * -1)
+print("Part one: {}".format(pq.queue[0] * -1))
 
 # Part 2
 sum = 0
 for i in range(3):
     sum += pq.get() * -1
-print(sum)
+print("Part two: {}".format(sum))
