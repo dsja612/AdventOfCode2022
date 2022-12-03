@@ -1,4 +1,4 @@
-# AdventOfCode2022
+# Advent Of Code 2022
 My solutions to [Google AOC 2022](https://adventofcode.com/) in Python.
 
 # Links
